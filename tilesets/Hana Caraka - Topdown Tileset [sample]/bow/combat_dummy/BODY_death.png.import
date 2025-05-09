@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0rpxii4fvndi"
-path="res://.godot/imported/BODY_skeleton.png-e9533155ebca21a0d95f14c89105252f.ctex"
+uid="uid://dhxg08d57ybga"
+path="res://.godot/imported/BODY_death.png-9d3a2d761767e1c8f99e7bf98d5b4630.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilesets/Pixel Art Top Down - Basic v1.1.2/Texture/expansion_pack-0.04/expansion_pack-0.04/png/64x64/bow/BODY_skeleton.png"
-dest_files=["res://.godot/imported/BODY_skeleton.png-e9533155ebca21a0d95f14c89105252f.ctex"]
+source_file="res://tilesets/Hana Caraka - Topdown Tileset [sample]/bow/combat_dummy/BODY_death.png"
+dest_files=["res://.godot/imported/BODY_death.png-9d3a2d761767e1c8f99e7bf98d5b4630.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bj82psat0v2q0"
-path="res://.godot/imported/BEHIND_quiver.png-3ec0cb68433fcb0a47c6ef1dea9f8c08.ctex"
+uid="uid://b0rpxii4fvndi"
+path="res://.godot/imported/BODY_skeleton.png-1920d75001cd011b8bc7b7beb874d414.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tilesets/Pixel Art Top Down - Basic v1.1.2/Texture/expansion_pack-0.04/expansion_pack-0.04/png/64x64/bow/BEHIND_quiver.png"
-dest_files=["res://.godot/imported/BEHIND_quiver.png-3ec0cb68433fcb0a47c6ef1dea9f8c08.ctex"]
+source_file="res://tilesets/Hana Caraka - Topdown Tileset [sample]/bow/BODY_skeleton.png"
+dest_files=["res://.godot/imported/BODY_skeleton.png-1920d75001cd011b8bc7b7beb874d414.ctex"]
 
 [params]
 
