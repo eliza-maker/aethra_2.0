@@ -33,3 +33,7 @@ func _process(_delta):
 
 	velocity = direction.normalized() * speed
 	move_and_slide()
+
+
+func _on_transition_to_spawn_body_entered(body: Node2D) -> void:
+	pass # Replace with function body.
